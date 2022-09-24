@@ -2,8 +2,9 @@
 - 🌱 I’m currently studying Web Development
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/> About Me:
-<br>
+</br>
 <img align="right" alt="GIF" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width="400"/>
+</br>
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:anhdung19022001@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100064799041817) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91%E1%BB%97-ho%C3%A0ng-97ba26246/)
