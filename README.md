@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7A246&center=true&vCenter=true&multiline=true&width=435&height=59&lines=Hi+there+%2C+I'm+Viet+Hoang+.;+Welcome+to+my+Github)](https://git.io/typing-svg)
-🌱 I’m currently studying Web Development
-📓 I’m studying at FPT University
+<br>
+🌱 I’m currently studying Web Development.
+<br>
+📓 I’m studying at FPT University.<br>
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/> About Me:
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/RcsonxhFOqAdOiHeWB/giphy.gif?cid=790b76116641677651659ede8279ab2d88df3f25198527c3&rid=giphy.gif&ct=s" width="400"/>
